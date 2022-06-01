@@ -1,4 +1,4 @@
-# CAR_game_Project
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=4C8AF7&lines=Two+Player+Car+Race+Game+%5BAndroid%5D)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Project+Description)](https://git.io/typing-svg)
 
