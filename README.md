@@ -17,7 +17,11 @@ Game will be reset by clicking on the "Reset" Button.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72118&lines=References)](https://git.io/typing-svg)
 
 1.} Button     : https://youtu.be/oCnoX8zF0Qs
+
 2.} Log&Toast  : https://youtu.be/G9mpVXhcrqk
+
 3.} ImageView  : https://youtu.be/Hj5mvo8TuRo
+
 4.} Animation  : https://youtu.be/53yphAmbhyU
+
 5.} TicTacToe  : https://youtu.be/-0dJhlHUK5c
